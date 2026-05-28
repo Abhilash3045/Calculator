@@ -1,1 +1,1 @@
-Calculator working link : https://abhilash3045.github.io/Calculator/
+Calculator link : https://abhilash3045.github.io/Calculator/
